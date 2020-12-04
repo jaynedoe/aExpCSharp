@@ -1,0 +1,11 @@
+C:\Code\aExpCSharp\easy1\bin\Debug\netcoreapp3.1\easy1.exe
+C:\Code\aExpCSharp\easy1\bin\Debug\netcoreapp3.1\easy1.deps.json
+C:\Code\aExpCSharp\easy1\bin\Debug\netcoreapp3.1\easy1.runtimeconfig.json
+C:\Code\aExpCSharp\easy1\bin\Debug\netcoreapp3.1\easy1.runtimeconfig.dev.json
+C:\Code\aExpCSharp\easy1\bin\Debug\netcoreapp3.1\easy1.dll
+C:\Code\aExpCSharp\easy1\bin\Debug\netcoreapp3.1\easy1.pdb
+C:\Code\aExpCSharp\easy1\obj\Debug\netcoreapp3.1\easy1.csprojAssemblyReference.cache
+C:\Code\aExpCSharp\easy1\obj\Debug\netcoreapp3.1\easy1.AssemblyInfoInputs.cache
+C:\Code\aExpCSharp\easy1\obj\Debug\netcoreapp3.1\easy1.AssemblyInfo.cs
+C:\Code\aExpCSharp\easy1\obj\Debug\netcoreapp3.1\easy1.dll
+C:\Code\aExpCSharp\easy1\obj\Debug\netcoreapp3.1\easy1.pdb
